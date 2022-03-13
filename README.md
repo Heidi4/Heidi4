@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Heidi4
 - 👀 I’m interested in in coding more specifically programming and hacking
 - 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on new ideas i have
+- 💞️ I’m looking to collaborate on new ideas i have and have friends all over the world 
 - 📫 How to reach me holla
 
 <!---
